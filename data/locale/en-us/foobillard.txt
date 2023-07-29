@@ -476,3 +476,4 @@ Game paused
 Pause next move on
 Pause next move off
 UK English
+Belarusian

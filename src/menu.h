@@ -249,6 +249,7 @@ enum menu_ID {
 
    // The supported languages for changing
 
+    MENU_ID_LANG_BE,
     MENU_ID_LANG_DE,
     MENU_ID_LANG_EN_US,
     MENU_ID_LANG_EN_UK,

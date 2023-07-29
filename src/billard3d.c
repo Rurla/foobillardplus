@@ -7132,6 +7132,9 @@ TCPsocket open_server_listener(void)
 void menu_cb( int id, void * arg , VMfloat value)
 {
   switch(id){
+    case MENU_ID_LANG_BE:
+          strncpy(options_language,"be", sizeof(options_language));
+        break;
     case MENU_ID_LANG_DE:
     	   strncpy(options_language,"de", sizeof(options_language));
         break;

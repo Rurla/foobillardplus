@@ -476,3 +476,4 @@ PAUSE aktiv
 Pause nächster Zug an
 Pause nächster Zug aus
 UK Englisch
+Belarussisch

@@ -1901,6 +1901,8 @@ void init_menu(void)
       Language Menu come from Main Menu
     */
     language_menu = menu_new( menu_cb );
+    //Belarusian
+    menu_add_entry(language_menu, localeText[478], MENU_ID_LANG_BE,localeText[470]);
     //German
     menu_add_entry(language_menu, localeText[471] , MENU_ID_LANG_DE,localeText[470]);
     //UK English
